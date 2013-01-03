@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.web4uonline"
         version   = "0.0.1">
-    <name>The Schantz Agency</name>
+    <name>Schantz Insurance Agency</name>
 
     <description>
-        The Schantzy Agency Insurance
+        Schantz Insurance Agency
     </description>
 
     <author href="http://www.web4uonline.com" email="info@web4uonline.com">
@@ -24,7 +24,7 @@
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
     <preference name="prerendered-icon" value="true" />
-    <preference name="stay-in-webview" value="false" />
+    <preference name="stay-in-webview" value="true" />
     <preference name="ios-statusbarstyle" value="black-opaque" />
     <preference name="detect-data-types" value="true" />
     <preference name="exit-on-suspend" value="true" />
