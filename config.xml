@@ -6,7 +6,7 @@
     <name>The Schantz Agency</name>
 
     <description>
-        Helping you discern your vocation.
+        The Schantzy Agency Insurance
     </description>
 
     <author href="http://www.web4uonline.com" email="info@web4uonline.com">
@@ -19,8 +19,8 @@
  
  
 
-    <preference name="phonegap-version" value="2.1.0" />
-    <preference name="orientation"      value="portrait" />
+    <preference name="phonegap-version" value="2.2.0" />
+    <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
     <preference name="prerendered-icon" value="true" />
