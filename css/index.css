@@ -69,7 +69,7 @@ h1 {
 }
 
 
-.classname, h1 {width:100%; margin:0px 0px 5px 0px; text-align:left; }
+.classname, h1 {width:100%; margin:0px 0px 12px 0px; text-align:left; }
 
 
 
@@ -88,9 +88,9 @@ h1 {
 	display:inline-block;
 	color:#ffffff;
 	font-family:arial;
-	font-size:15px;
+	font-size:24px;
 	font-weight:bold;
-	padding:6px 24px;
+	padding:14px 24px;
 	text-decoration:none;
 	text-shadow:1px 1px 0px #528ecc;
 }.classname:hover {
