@@ -1,6 +1,6 @@
 ﻿document.write("<div class=\"header\">");
 
-document.write("<img style=\"border:0px; margin:0px 10px -.20em 0px;\" src=\"img/logo-left.png\">Schantz Insurance Agency"); 
+document.write("<img style=\"border:0px; margin:0px 10px -.12em 0px;\" src=\"img/logo-left.png\">Schantz Insurance Agency"); 
 
 
 
