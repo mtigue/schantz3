@@ -21,7 +21,7 @@ echo "Thanks ". $name. " from ". $business. ". We'll send the certificate to ". 
 ?>
 
 
-<a href="<?php echo $back;?>">Return to <?php echo $back;?>.
+
 
 
 
@@ -41,7 +41,7 @@ $message = $name. $business. $email;
 
 ?>
 
-</a>
+
 
 
 </body>

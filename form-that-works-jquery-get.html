@@ -48,12 +48,22 @@ Thank you. We received your submission.
 </div>
 
 
+<script language="JavaScript">
+
+function postMe (form) {
+
+ location = "http://www.theschantzagency.com/app/schantz3/get_form.php";
+    document.theForm.submit();
+
+}
+
+</script>
 
 
 
 <!--   http://www.theschantzagency.com/app/schantz3/get_form.php   -->  
 
-<form id="form" name="form" action="" method="get">
+<form id="form" name="form" action="#" method="get">
 
 Name: <br><input type="text" id="name" name="name"/><br>
 
@@ -71,7 +81,7 @@ Email: <br><input type="text" name="email"/><br>
 
 
 
-<script type="text/Javascript">
+<script>
 
 function sendForm ()
 {
@@ -91,8 +101,6 @@ $.get( "http://www.theschantzagency.com/app/schantz3/get_form.php", { name: name
  
 
 }
-
-
 
 
 $(document).ready(function(){
